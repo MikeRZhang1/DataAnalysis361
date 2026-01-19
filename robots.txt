@@ -1,1 +1,1 @@
-Sitemap: https://MikeRZhang1.github.io/S-DS-361/sitemap.xml
+Sitemap: https://MikeRZhang1.github.io/DataAnalysis361/sitemap.xml
