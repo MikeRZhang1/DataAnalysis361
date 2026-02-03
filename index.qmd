@@ -5,3 +5,8 @@ title: "Data Analysis 361"
 This is a Quarto website made by Mike Zhang. Intended usage is to polish data analysis skills.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+## Number of NBA Games Between Each Team
+### Organized by Division and Conference
+
+![](img/nba_games.jpg){fig-alt="NBA games grid" width=80%}
