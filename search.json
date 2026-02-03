@@ -12,5 +12,12 @@
     "title": "Data Analysis 361",
     "section": "",
     "text": "This is a Quarto website made by Mike Zhang. Intended usage is to polish data analysis skills.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#number-of-nba-games-between-each-team",
+    "href": "index.html#number-of-nba-games-between-each-team",
+    "title": "Data Analysis 361",
+    "section": "Number of NBA Games Between Each Team",
+    "text": "Number of NBA Games Between Each Team\n\nOrganized by Division and Conference"
   }
 ]
